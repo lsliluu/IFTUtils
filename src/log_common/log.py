@@ -1,10 +1,11 @@
 import logging
 import os
 import time
-from os import getcwd, makedirs
+from os import makedirs
 from file_common import dir_utils
 
 
+# noinspection PyShadowingBuiltins
 def wlog(str, loglevel='info'):
     # print(datetime.datetime.now().strftime('%Y%m%d%H%M%S.%f'))
     # 创建一个logger

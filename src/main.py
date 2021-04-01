@@ -1,11 +1,11 @@
-'''
+"""
 Author: your name
 Date: 2021-03-15 16:30:58
 LastEditTime: 2021-03-15 17:16:58
 LastEditors: Please set LastEditors
 Description: In User Settings Edit
 FilePath: /IFTUtils/src/main.py
-'''
+"""
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
